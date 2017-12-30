@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\James\\Documents\\AndroidStudio_OpenBCIBlu_Workspace\\OpenBCIBLE-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\48b8f5561d6fb340cea3c3b0865d410bcd5a5bff\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\AndroidStudio_OpenBCIBlu_Workspace\\OpenBCIBLE-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\48b8f5561d6fb340cea3c3b0865d410bcd5a5bff\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\AndroidStudio_OpenBCIBlu_Workspace\\OpenBCIBLE-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\48b8f5561d6fb340cea3c3b0865d410bcd5a5bff\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\AndroidStudio_OpenBCIBlu_Workspace\\OpenBCIBLE-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\48b8f5561d6fb340cea3c3b0865d410bcd5a5bff\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\AndroidStudio_OpenBCIBlu_Workspace\\OpenBCIBLE-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\48b8f5561d6fb340cea3c3b0865d410bcd5a5bff\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\AndroidStudio_OpenBCIBlu_Workspace\\OpenBCIBLE-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\James\\.android\\build-cache\\48b8f5561d6fb340cea3c3b0865d410bcd5a5bff\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]

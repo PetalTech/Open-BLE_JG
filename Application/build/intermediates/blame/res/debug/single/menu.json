@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\James\\Documents\\AndroidStudio_OpenBCIBlu_Workspace\\OpenBCIBLE-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\James\\Documents\\AndroidStudio_OpenBCIBlu_Workspace\\OpenBCIBLE-master\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\Documents\\AndroidStudio_OpenBCIBlu_Workspace\\OpenBCIBLE-master\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\James\\Documents\\AndroidStudio_OpenBCIBlu_Workspace\\OpenBCIBLE-master\\Application\\src\\main\\res\\menu\\main.xml"
+    }
+]
