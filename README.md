@@ -11,6 +11,19 @@ JG NOTES: 12.30.17
 
 
 
+================Notes on file:
+
+There are a lot of non-needed and non-used java files here, its my workspace, so ignore most of them sorry about that. Code is terrible too forgive me lol.
+
+The microvolt conversion is found in DeviceControlActivity from line 231 to 663. This happens during live gathering of ganglion data.
+
+The LocalDataActivity file is what Jon helped with. It reads single-column data from a file (that has ALREADY been converted to microvolts) so we can mess around with processing steps off of previously recorded data without using the ganglion.
+
+In LocalDataActivity I include my bandpass filter as well as a fast fourier transform, both working perfect.
+
+I'm still working on bandpowerextractor.
+
+================Next Steps:
 
 First we need to convert bytes to microvolts. 
 	This involves parsing the delta-compressed data from http://docs.openbci.com/Hardware/08-Ganglion_Data_Format.
@@ -32,11 +45,4 @@ Then we need to create a buffer to hold the last XXX sample points of data to do
 
 Next we need to add a bandpass filter. Add this filter to each incoming samples individually then append into buffer array for testing.
 
-Then we need to add peak detection code on this final filtered buffer!
-
-
-
-
-
-
-
+Then we need to port peak detection code from python to apply on this final filtered buffer. Then we have a working brow detection!
